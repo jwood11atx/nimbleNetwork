@@ -1,0 +1,3 @@
+rootProject.name = 'nimbleNetwork'
+
+include ':app'
