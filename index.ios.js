@@ -1,25 +1,38 @@
 import React, { Component } from 'react';
+import firebase, { reference, signUp, signIn, signOut } from './lib/components/firebase';
 import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  TouchableHighlight,
+  TextInput,
 } from 'react-native';
 
 export default class nimbleNetwork extends Component {
+  constructor() {
+    super();
+    this.state = {
+      email: '',
+      pass: '',
+    }
+  }
+
+  onChange(e) {
+    
+  }
+
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
           Nimble Network
         </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
+        <TextInput onChangeText={this.onChange}></TextInput>
+        <TextInput onChangeText={this.onChange}></TextInput>
+        <TouchableHighlight onPress={() => signUp() }>
+          <Text>Sign In</Text>
+        </TouchableHighlight>
       </View>
     );
   }
