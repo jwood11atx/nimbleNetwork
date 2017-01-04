@@ -16,10 +16,18 @@ export default class nimbleNetwork extends Component {
       email: '',
       pass: '',
     }
+  this.emailOnChange = this.emailOnChange.bind(this);
+  this.passOnChange = this.passOnChange.bind(this);
   }
 
-  onChange(e) {
-    
+  emailOnChange(e) {
+    let input = e.target.value;
+    this.setState({email: input})
+  }
+
+  passOnChange(e) {
+    let input = e.target.value;
+    this.setState({email: input})
   }
 
   render() {
@@ -28,8 +36,20 @@ export default class nimbleNetwork extends Component {
         <Text style={styles.welcome}>
           Nimble Network
         </Text>
-        <TextInput onChangeText={this.onChange}></TextInput>
-        <TextInput onChangeText={this.onChange}></TextInput>
+        <View style={{alignItems: "center"}}>
+          <TextInput className="input-email"
+            style={{height: 40, width: 300, borderColor: 'gray', borderWidth: 1}}
+            placeholder="email"
+            onChangeText={(email) => this.setState({email})}
+            value={this.state.email}
+          />
+          <TextInput className="input-pw"
+            style={{height: 40, width: 300, borderColor: 'gray', borderWidth: 1}}
+            placeholder="password"
+            onChangeText={(email) => this.setState({email})}
+            value={this.state.email}
+          />
+        </View>
         <TouchableHighlight onPress={() => signUp() }>
           <Text>Sign In</Text>
         </TouchableHighlight>
