@@ -89,7 +89,6 @@ typedef NS_ENUM(NSUInteger, XCUIElementType) {
     XCUIElementTypeHandle = 78,
     XCUIElementTypeStepper = 79,
     XCUIElementTypeTab = 80,
-    XCUIElementTypeTouchBar = 81
 };
 
 #endif

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \

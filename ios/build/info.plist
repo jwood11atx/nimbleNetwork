@@ -3,8 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
+	<date>2017-01-04T20:17:34Z</date>
+=======
 	<date>2017-01-04T21:19:41Z</date>
+>>>>>>> 3c111fe2e4f8ee88188df3a59d30016fa49ad9ae
 	<key>WorkspacePath</key>
-	<string>/Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork.xcodeproj</string>
+	<string>/Users/jwood/Documents/turing/mod2/nimbleNetwork/ios/nimbleNetwork.xcodeproj</string>
 </dict>
 </plist>

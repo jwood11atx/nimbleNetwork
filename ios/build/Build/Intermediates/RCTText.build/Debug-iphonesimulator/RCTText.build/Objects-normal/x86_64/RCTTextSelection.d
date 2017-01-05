@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTAnimationType.h \
