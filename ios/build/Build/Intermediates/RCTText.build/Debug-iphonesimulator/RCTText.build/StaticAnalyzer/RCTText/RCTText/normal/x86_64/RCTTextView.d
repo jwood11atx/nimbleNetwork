@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextView.m \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextView.m \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextView.h \
   ../../React/Views/RCTView.h ../../React/Views/RCTBorderStyle.h \
   ../../React/Views/RCTComponent.h ../../React/Views/RCTPointerEvents.h \
   ../../React/Views/UIView+React.h ../../React/Base/RCTConvert.h \
@@ -13,8 +13,8 @@ dependencies: \
   ../../React/Base/RCTJavaScriptLoader.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTFrameUpdate.h \
   ../../React/Base/RCTInvalidating.h \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTText.h \
   ../../React/Base/RCTUtils.h \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextSelection.h
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextSelection.h
