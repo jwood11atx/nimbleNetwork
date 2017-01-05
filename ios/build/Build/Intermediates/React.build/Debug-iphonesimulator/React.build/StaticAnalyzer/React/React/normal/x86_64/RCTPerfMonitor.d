@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Profiler/RCTPerfMonitor.m \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Profiler/RCTFPSGraph.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTConvert.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTComponent.h
