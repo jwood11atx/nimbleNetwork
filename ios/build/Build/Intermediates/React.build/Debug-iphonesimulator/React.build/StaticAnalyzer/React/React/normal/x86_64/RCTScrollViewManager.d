@@ -1,31 +1,31 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTScrollViewManager.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTScrollViewManager.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTViewManager.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTConvert.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTScrollView.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTView.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Modules/RCTUIManager.h
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTView.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Modules/RCTUIManager.h

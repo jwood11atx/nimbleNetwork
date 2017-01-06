@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/ios/nimbleNetwork/main.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/ios/nimbleNetwork/AppDelegate.h
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork/main.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork/AppDelegate.h

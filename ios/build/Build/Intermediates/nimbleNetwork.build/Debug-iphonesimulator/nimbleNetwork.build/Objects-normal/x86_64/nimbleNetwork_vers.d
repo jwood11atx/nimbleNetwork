@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/ios/build/Build/Intermediates/nimbleNetwork.build/Debug-iphonesimulator/nimbleNetwork.build/DerivedSources/nimbleNetwork_vers.c
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/nimbleNetwork.build/Debug-iphonesimulator/nimbleNetwork.build/DerivedSources/nimbleNetwork_vers.c

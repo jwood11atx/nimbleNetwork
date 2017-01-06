@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
   ../../React/Base/RCTDefines.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTAnimationType.h \

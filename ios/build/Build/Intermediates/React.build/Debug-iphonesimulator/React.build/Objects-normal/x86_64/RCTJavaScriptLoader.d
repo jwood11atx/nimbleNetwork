@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTJavaScriptLoader.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTConvert.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
