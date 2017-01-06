@@ -1,4 +1,4 @@
-# Nimble Networker Built in React.js
+# Nimble Networker Built in React Native
 
 In development...
 

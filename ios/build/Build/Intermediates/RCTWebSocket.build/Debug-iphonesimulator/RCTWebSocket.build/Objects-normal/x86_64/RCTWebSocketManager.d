@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.m \
   ../../React/Base/RCTDefines.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketManager.h \
   ../../React/Base/RCTWebSocketProxy.h \
   ../../React/Base/RCTWebSocketProxyDelegate.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
@@ -11,4 +11,4 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h ../../React/Base/RCTUtils.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

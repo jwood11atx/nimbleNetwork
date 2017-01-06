@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageEditingManager.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageEditingManager.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageEditingManager.m \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageEditingManager.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
@@ -9,12 +9,12 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h ../../React/Base/RCTUtils.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTURLRequestDelegate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageLoader.h
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTImageLoader.h
