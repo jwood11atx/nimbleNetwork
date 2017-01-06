@@ -6,9 +6,10 @@ import {
 } from 'react-native';
 
 export default class List extends Component {
-  navigate() {
+  navigate(id) {
     this.props.navigator.push({
-      title: 'ContactCard'
+      title: 'ContactCard',
+      id: id
     });
   }
 
@@ -26,28 +27,10 @@ export default class List extends Component {
     }
 
     return (
-      <Text>Contacts</Text>
+      <View>
+        <Text>Contacts</Text>
+        {renderContacts()}
+      </View>
     )
-
-    );
   }
-
 }
-
-
-  const renderContacts = () {
-    return contacts.map((contact) => {
-      return (
-
-        <TouchableHighlight onPress={()=> this.navigate(contact.id)}>
-          <Text>{list}</Text>
-        </TouchableHighlight>
-
-
-        <ContactCard navigator={navigator} key={contact.id} {...contact}/>
-      );
-    });
-  }
-};
-
-export default List;
