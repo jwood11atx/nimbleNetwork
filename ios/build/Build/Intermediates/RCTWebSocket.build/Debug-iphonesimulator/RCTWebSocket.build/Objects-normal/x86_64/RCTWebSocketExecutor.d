@@ -1,7 +1,13 @@
 dependencies: \
+<<<<<<< HEAD
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
+  ../../React/Base/RCTDefines.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
+=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m \
   ../../React/Base/RCTDefines.h \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.h \
+>>>>>>> master
   ../../React/Base/RCTJavaScriptExecutor.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTAssert.h ../../React/Base/RCTBridge.h \
@@ -14,4 +20,8 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Views/RCTPointerEvents.h \
   ../../React/Base/RCTUtils.h \
+<<<<<<< HEAD
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+>>>>>>> master

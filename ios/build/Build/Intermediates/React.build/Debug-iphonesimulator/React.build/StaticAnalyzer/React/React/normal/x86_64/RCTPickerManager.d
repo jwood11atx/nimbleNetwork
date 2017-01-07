@@ -1,4 +1,31 @@
 dependencies: \
+<<<<<<< HEAD
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPickerManager.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPickerManager.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTConvert.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTPicker.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Views/RCTFont.h
+=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTPickerManager.m \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTPickerManager.h \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTViewManager.h \
@@ -24,3 +51,4 @@ dependencies: \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTPicker.h \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTFont.h
+>>>>>>> master
