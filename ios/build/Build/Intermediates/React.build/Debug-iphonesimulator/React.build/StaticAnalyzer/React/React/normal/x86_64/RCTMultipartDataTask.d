@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

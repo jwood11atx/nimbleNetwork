@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h ../../React/Base/RCTDefines.h \
