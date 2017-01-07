@@ -3,8 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
 	<date>2017-01-06T02:17:36Z</date>
 	<key>WorkspacePath</key>
 	<string>/Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork.xcodeproj</string>
+=======
+	<date>2017-01-06T23:07:48Z</date>
+	<key>WorkspacePath</key>
+	<string>/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/nimbleNetwork.xcodeproj</string>
+>>>>>>> master
 </dict>
 </plist>

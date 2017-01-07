@@ -6,18 +6,30 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
+<<<<<<< HEAD
 		kyL3MKt/Hh8S9COPUG40xFkWaoQ=
 		</data>
 		<key>version.plist</key>
 		<data>
 		R/va6aDhjzoXMhgC4CJPpstvJEw=
+=======
+		kJb1KpDD2Cv69x+OGw4eaXcNYD8=
+		</data>
+		<key>version.plist</key>
+		<data>
+		Pg5tQI7GcVX7I4xOONgKozs8Esg=
+>>>>>>> master
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>version.plist</key>
 		<data>
+<<<<<<< HEAD
 		R/va6aDhjzoXMhgC4CJPpstvJEw=
+=======
+		Pg5tQI7GcVX7I4xOONgKozs8Esg=
+>>>>>>> master
 		</data>
 	</dict>
 	<key>rules</key>

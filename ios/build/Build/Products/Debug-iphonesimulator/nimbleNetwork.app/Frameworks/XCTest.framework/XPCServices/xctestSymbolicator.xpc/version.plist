@@ -5,7 +5,11 @@
 	<key>BuildAliasOf</key>
 	<string>XCTest</string>
 	<key>BuildVersion</key>
+<<<<<<< HEAD
 	<string>5</string>
+=======
+	<string>1</string>
+>>>>>>> master
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -13,6 +17,10 @@
 	<key>ProjectName</key>
 	<string>XCTest_Sim</string>
 	<key>SourceVersion</key>
+<<<<<<< HEAD
 	<string>11753000000000000</string>
+=======
+	<string>11528000000000000</string>
+>>>>>>> master
 </dict>
 </plist>

@@ -6,7 +6,11 @@
 <string>Apple LLVM version 8.0.0 (clang-800.0.42.1)</string>
  <key>files</key>
  <array>
+<<<<<<< HEAD
   <string>/Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/React/Modules/RCTRedBox.m</string>
+=======
+  <string>/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Modules/RCTRedBox.m</string>
+>>>>>>> master
  </array>
  <key>diagnostics</key>
  <array>

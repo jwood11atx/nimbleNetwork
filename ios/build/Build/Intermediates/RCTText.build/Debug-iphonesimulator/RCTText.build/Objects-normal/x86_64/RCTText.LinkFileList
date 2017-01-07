@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.o
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.o
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.o
@@ -8,3 +9,15 @@
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.o
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.o
 /Users/joshuakylesmall/turing/mod2/nimble-network/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.o
+=======
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextSelection.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextField.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextFieldManager.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.o
+/Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.o
+>>>>>>> master
