@@ -1,30 +1,30 @@
 dependencies: \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTMapManager.m \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTMapManager.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTViewManager.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTMapManager.m \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTMapManager.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTConvert.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
   ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTConvert+MapKit.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTMap.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTMapAnnotation.h \
-  /Users/jwood/Documents/turing/mod2/nimbleNetwork/node_modules/react-native/React/Views/RCTMapOverlay.h
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTConvert+MapKit.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTMap.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTMapAnnotation.h \
+  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/React/Views/RCTMapOverlay.h
