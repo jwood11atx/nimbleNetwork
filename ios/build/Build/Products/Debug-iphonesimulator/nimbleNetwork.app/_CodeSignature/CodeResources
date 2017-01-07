@@ -5,6 +5,11 @@
 	<key>files</key>
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
+<<<<<<< HEAD
+		<data>
+		BIUkbcZoR1tD1yRjyzwxes5DGew=
+		</data>
+=======
 		<dict>
 			<key>hash</key>
 			<data>
@@ -13,6 +18,7 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+>>>>>>> master
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
 		3kP1Ki+b+w3pEUBaztwELW5jb2Q=
@@ -208,7 +214,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
+<<<<<<< HEAD
+		SF8Wh9Ut0jKgBx6EvBU3INRjDcs=
+=======
 		wBAgzojTWkg97q0GNIbfARapn5U=
+>>>>>>> master
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -233,14 +243,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
+			BIUkbcZoR1tD1yRjyzwxes5DGew=
+			</data>
+			<key>hash2</key>
+			<data>
+			4B2f8OXcDB20hbeZ+hPpmHNLnlY+xCuqfb7wflCBVrk=
+=======
 			BlfoGOcIsMbfNQQkUfF3WxKY9S8=
 			</data>
 			<key>hash2</key>
 			<data>
 			zZ6Px0vte/kGPfBUhjQbF9klHUmxRKizl7kmGIl59aI=
+>>>>>>> master
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<dict>
@@ -818,6 +834,11 @@
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
 		<key>^version.plist$</key>
 		<true/>
 	</dict>
@@ -862,6 +883,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
