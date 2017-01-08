@@ -1,11 +1,6 @@
 dependencies: \
-<<<<<<< HEAD
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
-=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
->>>>>>> master
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTFrameUpdate.h \

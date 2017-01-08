@@ -5,9 +5,14 @@
 	<key>files</key>
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
-		<data>
-		BIUkbcZoR1tD1yRjyzwxes5DGew=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			FTtgdHOtXs9J5AJ17y9rC+AuwPw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
 		aUm0c1LLvF5BD7IVSBsGgwX3iyY=
@@ -203,7 +208,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SF8Wh9Ut0jKgBx6EvBU3INRjDcs=
+		wBAgzojTWkg97q0GNIbfARapn5U=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -215,11 +220,11 @@
 		</data>
 		<key>PlugIns/nimbleNetworkTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		X2D0W6XhLr24CdbvhKn0iQch/SI=
+		hT+MIX5JdVAapGTl67adDA8i67k=
 		</data>
 		<key>PlugIns/nimbleNetworkTests.xctest/nimbleNetworkTests</key>
 		<data>
-		73XDjIBXS5RWfpzuEE8ipApTTMg=
+		bbMl7IEcZPsU1RVHA7mwLDnq10Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -228,12 +233,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BIUkbcZoR1tD1yRjyzwxes5DGew=
+			FTtgdHOtXs9J5AJ17y9rC+AuwPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			4B2f8OXcDB20hbeZ+hPpmHNLnlY+xCuqfb7wflCBVrk=
+			EOKaLYGsZ1PU0XLTMzuDbdeDtXKN26VIGYwWKqyk8Ho=
 			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<dict>
@@ -774,22 +781,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X2D0W6XhLr24CdbvhKn0iQch/SI=
+			hT+MIX5JdVAapGTl67adDA8i67k=
 			</data>
 			<key>hash2</key>
 			<data>
-			B/kP8fZ/0b2kSnJReCrXXsP54caEu42+iAJ79sD0/cs=
+			s4hCS9jT5EXMXY6Cs4oe07nDJywGCAJXjeUOISvdI8Y=
 			</data>
 		</dict>
 		<key>PlugIns/nimbleNetworkTests.xctest/nimbleNetworkTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			73XDjIBXS5RWfpzuEE8ipApTTMg=
+			bbMl7IEcZPsU1RVHA7mwLDnq10Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			PbgqLWgCXIOOX9GjLA+p683gsNBtI5g9IhIz4DOJWYA=
+			9e1wWstJH9/QAWwjQYIbkJBjDyEgn4ZVmogLzO8In/M=
 			</data>
 		</dict>
 	</dict>
@@ -810,11 +817,6 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -860,11 +862,6 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
