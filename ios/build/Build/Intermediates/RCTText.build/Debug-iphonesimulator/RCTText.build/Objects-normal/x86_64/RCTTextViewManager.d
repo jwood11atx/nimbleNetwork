@@ -1,11 +1,6 @@
 dependencies: \
-<<<<<<< HEAD
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
-=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
->>>>>>> master
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/CSSLayout/CSSLayout.h ../../React/CSSLayout/CSSEnums.h \
@@ -20,9 +15,5 @@ dependencies: \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Views/UIView+React.h ../../React/Views/RCTComponent.h \
   ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-<<<<<<< HEAD
-  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Text/RCTTextView.h \
-=======
   /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Text/RCTTextView.h \
->>>>>>> master
   ../../React/Views/RCTView.h ../../React/Views/RCTFont.h
