@@ -24,6 +24,12 @@
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		C404A12F1E243FE700C7D118 /* bgImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C404A1291E243FE700C7D118 /* bgImage.jpg */; };
+		C404A1301E243FE700C7D118 /* network.png in Resources */ = {isa = PBXBuildFile; fileRef = C404A12A1E243FE700C7D118 /* network.png */; };
+		C404A1311E243FE700C7D118 /* RobotoSlab-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C404A12B1E243FE700C7D118 /* RobotoSlab-Bold.ttf */; };
+		C404A1321E243FE700C7D118 /* RobotoSlab-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C404A12C1E243FE700C7D118 /* RobotoSlab-Light.ttf */; };
+		C404A1331E243FE700C7D118 /* RobotoSlab-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C404A12D1E243FE700C7D118 /* RobotoSlab-Regular.ttf */; };
+		C404A1341E243FE700C7D118 /* RobotoSlab-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C404A12E1E243FE700C7D118 /* RobotoSlab-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +124,55 @@
 			remoteGlobalIDString = 58B5119B1A9E6C1200147676;
 			remoteInfo = RCTText;
 		};
+		C404A13B1E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00C302BB1ABCB91800DB3ED1 /* RCTImage.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A283A1D9B042B00D4039D;
+			remoteInfo = "RCTImage-tvOS";
+		};
+		C404A13F1E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A28471D9B043800D4039D;
+			remoteInfo = "RCTLinking-tvOS";
+		};
+		C404A1431E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00C302D31ABCB9D200DB3ED1 /* RCTNetwork.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A28541D9B044C00D4039D;
+			remoteInfo = "RCTNetwork-tvOS";
+		};
+		C404A1471E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A28611D9B046600D4039D;
+			remoteInfo = "RCTSettings-tvOS";
+		};
+		C404A14B1E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A287B1D9B048500D4039D;
+			remoteInfo = "RCTText-tvOS";
+		};
+		C404A1501E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A28881D9B049200D4039D;
+			remoteInfo = "RCTWebSocket-tvOS";
+		};
+		C404A1541E243FE700C7D118 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 146833FF1AC3E56700842450 /* React.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D2A28131D9B038B00D4039D;
+			remoteInfo = "React-tvOS";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -143,6 +198,12 @@
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
+		C404A1291E243FE700C7D118 /* bgImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bgImage.jpg; path = ../lib/resources/bgImage.jpg; sourceTree = "<group>"; };
+		C404A12A1E243FE700C7D118 /* network.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = network.png; path = ../lib/resources/network.png; sourceTree = "<group>"; };
+		C404A12B1E243FE700C7D118 /* RobotoSlab-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "RobotoSlab-Bold.ttf"; path = "../lib/resources/RobotoSlab-Bold.ttf"; sourceTree = "<group>"; };
+		C404A12C1E243FE700C7D118 /* RobotoSlab-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "RobotoSlab-Light.ttf"; path = "../lib/resources/RobotoSlab-Light.ttf"; sourceTree = "<group>"; };
+		C404A12D1E243FE700C7D118 /* RobotoSlab-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "RobotoSlab-Regular.ttf"; path = "../lib/resources/RobotoSlab-Regular.ttf"; sourceTree = "<group>"; };
+		C404A12E1E243FE700C7D118 /* RobotoSlab-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "RobotoSlab-Thin.ttf"; path = "../lib/resources/RobotoSlab-Thin.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +256,7 @@
 			isa = PBXGroup;
 			children = (
 				00C302C01ABCB91800DB3ED1 /* libRCTImage.a */,
+				C404A13C1E243FE700C7D118 /* libRCTImage-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -203,6 +265,7 @@
 			isa = PBXGroup;
 			children = (
 				00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */,
+				C404A1441E243FE700C7D118 /* libRCTNetwork-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -236,6 +299,7 @@
 			isa = PBXGroup;
 			children = (
 				139105C11AF99BAD00B5F7CC /* libRCTSettings.a */,
+				C404A1481E243FE700C7D118 /* libRCTSettings-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -244,6 +308,7 @@
 			isa = PBXGroup;
 			children = (
 				139FDEF41B06529B00C62182 /* libRCTWebSocket.a */,
+				C404A1511E243FE700C7D118 /* libRCTWebSocket-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -266,6 +331,7 @@
 			isa = PBXGroup;
 			children = (
 				146834041AC3E56700842450 /* libReact.a */,
+				C404A1551E243FE700C7D118 /* libReact-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -283,6 +349,7 @@
 			isa = PBXGroup;
 			children = (
 				78C398B91ACF4ADC00677621 /* libRCTLinking.a */,
+				C404A1401E243FE700C7D118 /* libRCTLinking-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -309,6 +376,7 @@
 			isa = PBXGroup;
 			children = (
 				832341B51AAA6A8300B99B32 /* libRCTText.a */,
+				C404A14C1E243FE700C7D118 /* libRCTText-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -316,6 +384,12 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				C404A1291E243FE700C7D118 /* bgImage.jpg */,
+				C404A12A1E243FE700C7D118 /* network.png */,
+				C404A12B1E243FE700C7D118 /* RobotoSlab-Bold.ttf */,
+				C404A12C1E243FE700C7D118 /* RobotoSlab-Light.ttf */,
+				C404A12D1E243FE700C7D118 /* RobotoSlab-Regular.ttf */,
+				C404A12E1E243FE700C7D118 /* RobotoSlab-Thin.ttf */,
 				13B07FAE1A68108700A75B9A /* nimbleNetwork */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* nimbleNetworkTests */,
@@ -538,6 +612,55 @@
 			remoteRef = 832341B41AAA6A8300B99B32 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		C404A13C1E243FE700C7D118 /* libRCTImage-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTImage-tvOS.a";
+			remoteRef = C404A13B1E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A1401E243FE700C7D118 /* libRCTLinking-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTLinking-tvOS.a";
+			remoteRef = C404A13F1E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A1441E243FE700C7D118 /* libRCTNetwork-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTNetwork-tvOS.a";
+			remoteRef = C404A1431E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A1481E243FE700C7D118 /* libRCTSettings-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTSettings-tvOS.a";
+			remoteRef = C404A1471E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A14C1E243FE700C7D118 /* libRCTText-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTText-tvOS.a";
+			remoteRef = C404A14B1E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A1511E243FE700C7D118 /* libRCTWebSocket-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRCTWebSocket-tvOS.a";
+			remoteRef = C404A1501E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C404A1551E243FE700C7D118 /* libReact-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libReact-tvOS.a";
+			remoteRef = C404A1541E243FE700C7D118 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -552,8 +675,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C404A1331E243FE700C7D118 /* RobotoSlab-Regular.ttf in Resources */,
+				C404A1301E243FE700C7D118 /* network.png in Resources */,
+				C404A1311E243FE700C7D118 /* RobotoSlab-Bold.ttf in Resources */,
+				C404A1321E243FE700C7D118 /* RobotoSlab-Light.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				C404A1341E243FE700C7D118 /* RobotoSlab-Thin.ttf in Resources */,
+				C404A12F1E243FE700C7D118 /* bgImage.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
