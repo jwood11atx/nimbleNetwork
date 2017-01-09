@@ -11,15 +11,22 @@
     "react": "15.4.1",
     "react-native": "0.39.2"
   },
+  "jest": {
+    "preset": "jest-react-native"
+  },
   "devDependencies": {
     "babel-jest": "18.0.0",
     "babel-preset-react-native": "1.9.1",
+    "chai": "^3.5.0",
+    "enzyme": "^2.7.0",
     "firebase": "^3.6.4",
     "firebase-tools": "^3.2.1",
-    "jest": "18.1.0",
-    "react-test-renderer": "15.4.1"
-  },
-  "jest": {
-    "preset": "react-native"
+    "jest": "^18.1.0",
+    "jest-react-native": "^18.0.0",
+    "mocha": "^3.2.0",
+    "mocha-loader": "^1.1.0",
+    "react-addons-test-utils": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-test-renderer": "^15.4.1"
   }
 }
