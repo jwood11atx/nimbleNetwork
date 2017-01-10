@@ -8,4 +8,4 @@ Built by [Josh Small](https://github.com/jksmall0631), [Justin Wood](https://git
 
 <kbd><img src="https://github.com/jwood11atx/nimbleNetwork/blob/master/contacts.png" alt="contacts image" width="200" height="400"></kdb>
 
-<kbd><img src="https://github.com/jwood11atx/nimbleNetwork/blob/master/contactCard.png" alt="contact card image" width="200" height="400"></kdb>
+<kbd><img src="https://github.com/jwood11atx/nimbleNetwork/blob/master/card.png" alt="contact card image" width="200" height="400"></kdb>
