@@ -1,10 +1,10 @@
 --- !tapi-tbd-v2
 archs:           [ i386, x86_64 ]
-uuids:           [ 'i386: 4FDCD3DD-70F6-3991-9FE9-D22975D02FB7', 'x86_64: EA181629-F431-3634-B2C1-6F122BC44DAB' ]
+uuids:           [ 'i386: 3C6E14E1-3408-3782-BB75-3CDC60174D45', 'x86_64: 14D068AE-3D33-3D18-BAFE-2EF9A4537EA1' ]
 platform:        ios
 flags:           [ not_app_extension_safe ]
 install-name:    '@rpath/XCTest.framework/XCTest'
-current-version: 11528.0
+current-version: 11753.0
 objc-constraint: none
 exports:         
   - archs:           [ i386, x86_64 ]

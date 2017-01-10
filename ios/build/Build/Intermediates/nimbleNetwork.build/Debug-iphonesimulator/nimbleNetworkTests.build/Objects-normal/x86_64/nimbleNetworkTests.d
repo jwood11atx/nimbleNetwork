@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/nimbleNetworkTests/nimbleNetworkTests.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetworkTests/nimbleNetworkTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \

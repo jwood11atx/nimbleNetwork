@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h ../../React/Base/RCTDefines.h \
