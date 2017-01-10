@@ -18,4 +18,10 @@ describe('Contacts', () => {
     wrapper.find('TouchableHighlight').simulate('change')
     expect(onClick).to.have.property('callCount', 1)
   })
+  it('should change message state on onChange', () => {
+    const wrapper = mount(<ContactCard />);
+    const input = wrapper.find('TextInput');
+    input.simulate('change', {target: {value: 'name'}});
+    expect(wrapper.state('name')).to.equal('name');
+  })
 })
