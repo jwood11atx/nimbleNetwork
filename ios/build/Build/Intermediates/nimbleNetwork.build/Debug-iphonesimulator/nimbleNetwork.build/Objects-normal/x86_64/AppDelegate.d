@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/nimbleNetwork/AppDelegate.m \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/ios/nimbleNetwork/AppDelegate.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork/AppDelegate.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/ios/nimbleNetwork/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \

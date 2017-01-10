@@ -2,17 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<<<<<<< HEAD
-=======
-	<key>SchemeUserState</key>
-	<dict>
-		<key>nimbleNetwork.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-	</dict>
->>>>>>> bd2755ddae5aec5555fa194f0f393061a4518009
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>00E356ED1AD99517003FC87E</key>

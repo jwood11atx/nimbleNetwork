@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
-  /Users/adamrice/Desktop/projectsTuring/1610/twoMod/nimbleNetwork/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
+  /Users/joshuakylesmall/turing/mod2/nimble-network/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSEnums.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTAnimationType.h \

@@ -5,14 +5,9 @@
 	<key>files</key>
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FTtgdHOtXs9J5AJ17y9rC+AuwPw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<data>
+		ed1wMKQBTAaJyP2lQGJ+W+fOjIE=
+		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
 		nrRG7weUQrYVE+0w3BdYNpbMByg=
@@ -208,7 +203,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wBAgzojTWkg97q0GNIbfARapn5U=
+		iRQCGIAnibjUJ/ogYZROIqk8AsQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -226,6 +221,30 @@
 		<data>
 		IxYmVkXpUtWl6sPVCVNAsbYmw6I=
 		</data>
+		<key>RobotoSlab-Bold.ttf</key>
+		<data>
+		l1Ea/C4ZKiL9WUb1U+4yC1cFAlg=
+		</data>
+		<key>RobotoSlab-Light.ttf</key>
+		<data>
+		d7t7iT2/uZRcpbrcyZlEURduFhY=
+		</data>
+		<key>RobotoSlab-Regular.ttf</key>
+		<data>
+		kSiV5rueBa86Hlih2kF+mSpxoyQ=
+		</data>
+		<key>RobotoSlab-Thin.ttf</key>
+		<data>
+		6d2CVJYsHXg2MFJrpN4Cx3Z/Aw8=
+		</data>
+		<key>bgImage.jpg</key>
+		<data>
+		WOFs0kXPb5m6MokFCgOVb940TzQ=
+		</data>
+		<key>network.png</key>
+		<data>
+		19SBipJzVv1aiko5p+97I3gTh04=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -233,14 +252,12 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FTtgdHOtXs9J5AJ17y9rC+AuwPw=
+			ed1wMKQBTAaJyP2lQGJ+W+fOjIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			EOKaLYGsZ1PU0XLTMzuDbdeDtXKN26VIGYwWKqyk8Ho=
+			sppv4aOz9YBIZ32ka3U3UZ6s7HDl0Feu8aS/+bk4Lc4=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<dict>
@@ -799,6 +816,72 @@
 			oMqUOixP05Gn0MhLX5NWPOl2SpXlovK4ovdOigz4rlo=
 			</data>
 		</dict>
+		<key>RobotoSlab-Bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l1Ea/C4ZKiL9WUb1U+4yC1cFAlg=
+			</data>
+			<key>hash2</key>
+			<data>
+			uhLS6rH6dltrBTmPp+BH3XYpPwwFHOV6j3sMWRwU1Cs=
+			</data>
+		</dict>
+		<key>RobotoSlab-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d7t7iT2/uZRcpbrcyZlEURduFhY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FTv1tCjVzQsnpj+aNpQc19bHUjp6/VnHahL3mOTDMSc=
+			</data>
+		</dict>
+		<key>RobotoSlab-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kSiV5rueBa86Hlih2kF+mSpxoyQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			E6pfVMby+i44j+Dmdc28xqgfYnCov5wDpd+K+csCKBA=
+			</data>
+		</dict>
+		<key>RobotoSlab-Thin.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6d2CVJYsHXg2MFJrpN4Cx3Z/Aw8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ti8mCXU4klFiytKj5gUfZZuYlThlWaGJCkZk2OmpoME=
+			</data>
+		</dict>
+		<key>bgImage.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WOFs0kXPb5m6MokFCgOVb940TzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			mrfMithkf9feCI+FyoZ2JwQbVbY8rXyI9UbLJoPjxbA=
+			</data>
+		</dict>
+		<key>network.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			19SBipJzVv1aiko5p+97I3gTh04=
+			</data>
+			<key>hash2</key>
+			<data>
+			2ejQXlC9Iy2cwN/OOt2XzRs3MEnawVvGlsRbXGLFxwQ=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
@@ -817,6 +900,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -862,6 +950,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
