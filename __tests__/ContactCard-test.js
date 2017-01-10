@@ -12,4 +12,10 @@ describe('Contacts', () => {
     const wrapper = mount(<ContactCard />)
     expect (ContactCard.prototype.componentDidMount.calledOnce).to.equal(true)
   })
+  it('has a sign in button that can be clicked', () => {
+    let onClick = sinon.spy()
+    const wrapper = mount(<ContactCard />)
+    wrapper.find('TouchableHighlight').simulate('change')
+    expect(onClick).to.have.property('callCount', 1)
+  })
 })
