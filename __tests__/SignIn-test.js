@@ -5,6 +5,7 @@ import renderer from 'react-test-renderer';
 import {expect, assert} from 'chai';
 import {shallow} from 'enzyme';
 import Jest from 'jest';
+import sinon from 'sinon';
 
 describe('SignIn', () => {
   it('its state is an object', () => {
@@ -17,7 +18,10 @@ describe('SignIn', () => {
     wrapper.find('TouchableHighlight').simulate('change')
     expect(onClick).to.have.property('callCount', 1)
   })
-  it('should sign in if current users email and password are provided', () => {
-
+    it('should change message state on onChange', () => {
+    const wrapper = mount(<SignIn />);
+    const input = wrapper.find('TextInput');
+    input.simulate('change', {target: {value: 'bla'}});
+    expect(wrapper.state('email')).to.equal('bla');
   })
 })
